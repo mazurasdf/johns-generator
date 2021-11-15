@@ -36,8 +36,8 @@ function App() {
 		"the lag is",
 		"your up smash is",
 		"my bair is",
-		"my frame data",
-		"my glasses"
+		"my frame data is",
+		"my glasses are"
 	];
 	const problems = [
 		"in my eyes",
