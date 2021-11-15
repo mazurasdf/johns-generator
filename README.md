@@ -1,6 +1,6 @@
 # johns generator
 
-did you lose in smash? it's probably not your fault. randomly generated excuses will prove why it's not your fault you lost
+did you lose in smash? it's probably not your fault. randomly generated excuses will prove why it's not your fault you lost. click [here](https://mazurasdf.github.io/johns-generator/) to find out why it's not your fault you lost.
 
 ## What is this?
 
