@@ -76,7 +76,9 @@ function App() {
 		<div className="App">
 			<div id="top">
 				<div id="topLeft"></div>
-				<div id="topRight"></div>
+				<div id="topRight">
+					<h1>johns generator</h1>
+				</div>
 			</div>
 			<div id="bottom">
 				<div id="bottomLeft"></div>

@@ -19,6 +19,7 @@ body{
 
 #top{
   height: 6vh;
+  display: flex;
 }
 
 #bottom{
@@ -28,9 +29,17 @@ body{
 }
 
 #topLeft{
-  width: 6vh;
+  min-width: 6vh;
   height: 100%;
   border-right: 1px solid whitesmoke;
+}
+
+#topRight{
+  width: 94vh;
+}
+
+#topRight > h1{
+  color:rgba(245, 245, 245, 0.185);
 }
 
 #bottomLeft{
@@ -40,6 +49,7 @@ body{
 }
 
 #bottomRight{
+  padding: 20px;
   width: 100%;
   display: flex;
   flex-direction: column;
