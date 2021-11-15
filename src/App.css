@@ -1,38 +1,60 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+  color:whitesmoke;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: black;
+}
+
+.App{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#top{
+  height: 6vh;
+}
+
+#bottom{
+  height: 94vh;
+  border-top: 1px solid whitesmoke;
+  display: flex;
+}
+
+#topLeft{
+  width: 6vh;
+  height: 100%;
+  border-right: 1px solid whitesmoke;
+}
+
+#bottomLeft{
+  min-width: 6vh;
+  height: 100%;
+  border-right: 1px solid whitesmoke;
+}
+
+#bottomRight{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  align-items: center;
+}
+
+h1{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button{
+  background-color: black;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  width:fit-content;
+  padding: 10px;
 }
