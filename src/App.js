@@ -7,8 +7,9 @@ function App() {
 		"I only lost because",
 		"You only won because",
 		"This is BS! How am I supposed to win when",
-		"I wouldn't have lost if",
-		"That match doesn't count because"
+		"We need to do over because",
+		"That match doesn't count because",
+		"I can't be expected to play when"
 	];
 	const premises = [
 		"my eyes are",
@@ -28,16 +29,34 @@ function App() {
 		"the room is",
 		"my head is",
 		"my A button is",
-		"you said I was",
-		"the stage was",
+		"you said I am",
+		"the stage is",
 		"the temperature is",
-		"I felt",
 		"this game is",
 		"the lag is",
 		"your up smash is",
-		"my bair is",
+		"your nair is",
 		"my frame data is",
-		"my glasses are"
+		"my glasses are",
+		"the lights are",
+		"my controls are",
+		"your projectiles are",
+		"my landing lag is",
+		"my end lag is",
+		"your neutral special is",
+		"your counterpick is",
+		"my c stick is",
+		"the RNG is",
+		"I think wavedashing is",
+		"the TO is",
+		"the other players are",
+		"your damage output is",
+		"the rules are",
+		"lylat is",
+		"the blast zones are",
+		"the timer is",
+		"your wall jump is",
+		"my bracket placement is"
 	];
 	const problems = [
 		"in my eyes",
@@ -64,7 +83,25 @@ function App() {
 		"red",
 		"broken",
 		"not very good",
-		"OP"
+		"OP",
+		"too dark",
+		"too far away",
+		"far too long",
+		"campy",
+		"confused",
+		"kinda dumb",
+		"not working",
+		"glitching out",
+		"cheating",
+		"low tier",
+		"kinda cute tho",
+		"slippery",
+		"gone",
+		"taking too long",
+		"gimmicky",
+		"too much",
+		"not making sense",
+		"talking"
 	];
 
 	const generateJohn = () => {
