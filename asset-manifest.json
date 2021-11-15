@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/johns-generator/static/css/main.95b000c1.chunk.css",
+    "main.css": "/johns-generator/static/css/main.7409bb8a.chunk.css",
     "main.js": "/johns-generator/static/js/main.4390d5c7.chunk.js",
     "main.js.map": "/johns-generator/static/js/main.4390d5c7.chunk.js.map",
     "runtime-main.js": "/johns-generator/static/js/runtime-main.0671dae4.js",
@@ -10,13 +10,13 @@
     "static/js/3.7609f7ad.chunk.js": "/johns-generator/static/js/3.7609f7ad.chunk.js",
     "static/js/3.7609f7ad.chunk.js.map": "/johns-generator/static/js/3.7609f7ad.chunk.js.map",
     "index.html": "/johns-generator/index.html",
-    "static/css/main.95b000c1.chunk.css.map": "/johns-generator/static/css/main.95b000c1.chunk.css.map",
+    "static/css/main.7409bb8a.chunk.css.map": "/johns-generator/static/css/main.7409bb8a.chunk.css.map",
     "static/js/2.f492f770.chunk.js.LICENSE.txt": "/johns-generator/static/js/2.f492f770.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0671dae4.js",
     "static/js/2.f492f770.chunk.js",
-    "static/css/main.95b000c1.chunk.css",
+    "static/css/main.7409bb8a.chunk.css",
     "static/js/main.4390d5c7.chunk.js"
   ]
 }
